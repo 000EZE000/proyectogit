@@ -1,0 +1,13 @@
+git init
+crea archivos por ejemplo con el comando: code .
+despues 
+git status
+git add (nombredearchivo.suextencion)
+git status
+git commit -m 'un mensaje para recordar'
+ya debes crear el repositorio en github con el mismo nombre de la carpeta de origen
+ya creado poner:
+git remote add origin <url>
+git branch -M main
+git push -u origin main
+y listo ya estaria subido tu repositorio a github
