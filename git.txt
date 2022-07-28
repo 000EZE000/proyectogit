@@ -9,5 +9,5 @@ ya debes crear el repositorio en github con el mismo nombre de la carpeta de ori
 ya creado poner:
 git remote add origin <url>
 git branch -M main
-git push -u origin main
+git push -u origin main or git push --set-upstream origin master
 y listo ya estaria subido tu repositorio a github
